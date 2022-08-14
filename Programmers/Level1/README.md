@@ -4,5 +4,4 @@
 
 ## 2. [두 정수 사이의 합](https://github.com/BoYeonJang/Studying-Algorithms/blob/main/Programmers/Level1/%EB%91%90%20%EC%A0%95%EC%88%98%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%ED%95%A9.md) 2022년 08월 13일
 
-## 3. [약수의 합
-](https://github.com/BoYeonJang/Studying-Algorithms/blob/main/Programmers/Level1/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.md) 2022년 08월 14일
+## 3. [약수의 합](https://github.com/BoYeonJang/Studying-Algorithms/blob/main/Programmers/Level1/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.md) 2022년 08월 14일
