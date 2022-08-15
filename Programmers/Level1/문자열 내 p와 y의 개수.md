@@ -54,10 +54,10 @@ def solution(s):
 |실행 결과|테스트를 통과하였습니다.|테스트를 통과하였습니다.|
 
 ## 해설
-- lower(): 대문자를 소문자로 바꿔주는 함수. WORLD → world<br>
-- count(): 해당 문자열 안에서 찾고 싶은 문자의 개수를 찾게 해주는 함수. 'pPoooyY'.count('o') → 3<br>
+- `lower()`: 대문자를 소문자로 바꿔주는 함수. `WORLD → world`<br>
+- `count()`: 해당 문자열 안에서 찾고 싶은 문자의 개수를 찾게 해주는 함수. `'pPoooyY'.count('o') → 3`<br>
 
-따라서 s.lower().count('p')는 s안에 담긴 문자열을 소문자로 변환해주고 그 안에 담긴 p의 개수를 센다.<br>
-s.lower().count('y')도 동일하게 소문자로 변환시킨 y의 개수를 세어서 둘을 비교한다.<br>
-pPoooyY는 ppoooyy가 되어 p와 y가 각각 2개로 같으므로 True.<br>
-Pyy는 pyy로 p가 1개, y가 2개로 개수가 다르므로 False.<br>
+따라서 `s.lower().count('p')` 는 `s` 안에 담긴 문자열을 소문자로 변환해주고 그 안에 담긴 `p` 의 개수를 센다.<br>
+`s.lower().count('y')` 도 동일하게 소문자로 변환시킨 `y` 의 개수를 세어서 둘을 비교한다.<br>
+`pPoooyY` 는 `ppoooyy` 가 되어 `p` 와 `y` 가 각각 2개로 같으므로 `True`.<br>
+`Pyy` 는 `pyy` 로 `p` 가 1개, `y` 가 2개로 개수가 다르므로 `False`.<br>
