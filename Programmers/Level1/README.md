@@ -8,4 +8,4 @@
 
 ## 4. [소수 만들기](https://github.com/BoYeonJang/Studying-Algorithms/blob/main/Programmers/Level1/%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md) 2022년 08월 15일
 
-## 5. [완주하지 못한 선수]https://github.com/BoYeonJang/Studying-Algorithms/blob/main/Programmers/Level1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.md
+## 5. [완주하지 못한 선수](https://github.com/BoYeonJang/Studying-Algorithms/blob/main/Programmers/Level1/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.md) 2022년 8월 16일
