@@ -13,3 +13,5 @@
 ## 6. [같은 숫자는 싫어](https://github.com/BoYeonJang/Studying-Algorithms/blob/main/Programmers/Level1/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.md) 2022년 8월 17일
 
 ## 7. [K번째수](https://github.com/BoYeonJang/Studying-Algorithms/blob/main/Programmers/Level1/K%EB%B2%88%EC%A7%B8%EC%88%98.md) 2022년 8월 18일
+
+## 7. [최대공약수와 최소공배수](https://github.com/BoYeonJang/Studying-Algorithms/blob/main/Programmers/Level1/최대공약수와%20최소공배수.md) 2022년 8월 20일
