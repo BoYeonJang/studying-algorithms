@@ -17,3 +17,5 @@
 ## 8. [최대공약수와 최소공배수](https://github.com/BoYeonJang/Studying-Algorithms/blob/main/Programmers/Level1/최대공약수와%20최소공배수.md) 2022년 8월 20일
 
 ## 9. [모의고사](https://github.com/BoYeonJang/studying-algorithms/blob/main/Programmers/Level1/모의고사.md) 2022년 8월 21일
+
+## 10. [폰켓몬](https://github.com/BoYeonJang/studying-algorithms/blob/main/Programmers/Level1/폰켓몬.md) 2022년 8월 22일
