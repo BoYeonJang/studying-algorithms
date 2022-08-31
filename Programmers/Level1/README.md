@@ -23,3 +23,7 @@
 ## 11. [2016년](https://github.com/BoYeonJang/studying-algorithms/blob/main/Programmers/Level1/2016%EB%85%84.md) 2022년 8월 25일
 
 ## 12. [알파벳 찾기](https://github.com/BoYeonJang/studying-algorithms/blob/main/Programmers/Level1/알파벳%20찾기.md) 2022년 8월 30일
+
+## 13. [두 수 비교하기](https://github.com/BoYeonJang/studying-algorithms/blob/main/Programmers/Level1/두%20수%20비교하기.md) 2022년 8월 31일
+
+## 14. [시험 성적](https://github.com/BoYeonJang/studying-algorithms/blob/main/Programmers/Level1/시험%20성적.md) 2022년 9월 1일
